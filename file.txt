@@ -1,2 +1,3 @@
 My first GIT file
-Linha sem conflito
+Linha com conflito
+
