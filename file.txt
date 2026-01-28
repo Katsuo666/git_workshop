@@ -1,2 +1,1 @@
-Novo conteudo ficheiro 
-new line 
+My first GIT file
